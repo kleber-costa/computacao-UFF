@@ -1,0 +1,5 @@
+*.swp
+*.swap
+*.tmp
+*.temp
+.idea/
