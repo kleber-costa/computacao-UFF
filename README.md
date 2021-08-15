@@ -1,7 +1,3 @@
 # Tecnologia em Sistemas de Computação - UFF
 
-## Fundamentos de Programação
-
-### Exercícios - URI Online Judge
-
-Desenvolvimento de questões do URI Online Judge em Python 3
+## Repositório destinado a códigos de exercicios e hipóteses abordadas nas matérias da graduação.
