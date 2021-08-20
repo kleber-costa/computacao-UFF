@@ -12,7 +12,7 @@ A entrada  contém duas  linhas de  dados. A primeira  linha  contém dois valor
 de ponto  flutuante, 𝑥1 e 𝑦1 , e a segunda  linha  contém outros dois valores de
 ponto flutuante, 𝑥2 e 𝑦2.
 
-Saída
+Saída:
 Calcule e imprima o valor da  distância segundo a fórmula fornecida, com 4 casas
 após o ponto decimal.
 
