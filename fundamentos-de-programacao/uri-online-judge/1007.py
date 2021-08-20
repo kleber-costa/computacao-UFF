@@ -12,7 +12,8 @@ Saída:
 Imprima a mensagem DIFERENCA com  todas as letras maiúsculas, conforme
 exemplo abaixo, com um espaço em branco antes e depois da igualdade.
 
-Exemplo:
+Exemplos:
+
 -------------------------------------------------------------------------------
 Entrada                                     Saída
 -------------------------------------------------------------------------------

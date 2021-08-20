@@ -16,7 +16,8 @@ dupla precisão (double). Como todos os problemas, não esqueça de imprimir
 o fim de linha após o resultado, caso contrário, você receberá
 "Presentation Error".
 
-Exemplo:
+Exemplos:
+
 -------------------------------------------------------------------------------
 Entrada                                     Saída
 -------------------------------------------------------------------------------

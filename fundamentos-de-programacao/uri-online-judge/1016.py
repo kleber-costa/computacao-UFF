@@ -13,10 +13,11 @@ tomar essa distância do outro carro.
 Entrada:
 O arquivo de entrada contém um número inteiro.
 
-Saída
+Saída:
 Imprima o tempo necessário seguido da mensagem "minutos".
 
-Exemplo
+Exemplos:
+
 -------------------------------------------------------------------------------
 Entrada                                     Saída
 -------------------------------------------------------------------------------

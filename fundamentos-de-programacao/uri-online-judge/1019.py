@@ -1,3 +1,33 @@
+'''
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1019
+
+Leia um valor inteiro, que é o tempo de duração em segundos de um determinado
+evento em uma fábrica, e informe-o expresso no formato horas:minutos:segundos.
+
+Entrada:
+O arquivo de entrada contém um valor inteiro N.
+
+Saída:
+Imprima o tempo lido no arquivo de entrada (segundos), convertido para
+horas:minutos:segundos, conforme exemplo fornecido.
+
+Exemplos:
+
+-------------------------------------------------------------------------------
+Entrada                                     Saída
+-------------------------------------------------------------------------------
+556                                        0:9:16
+-------------------------------------------------------------------------------
+Entrada                                     Saída
+-------------------------------------------------------------------------------
+1                                           0:0:1
+-------------------------------------------------------------------------------
+Entrada                                     Saída
+-------------------------------------------------------------------------------
+140153                                      38:55:53
+-------------------------------------------------------------------------------
+'''
+
 entrada = int(input())
 
 print("%d" % (entrada // 3600), ((entrada % 3600) // 60), ((entrada % 3600) % 60), sep=':')

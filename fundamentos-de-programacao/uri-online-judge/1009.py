@@ -15,7 +15,8 @@ respectivamente.
 Saída:
 Imprima o total que o funcionário deverá receber, conforme exemplo fornecido.
 
-Exemplo:
+Exemplos:
+
 -------------------------------------------------------------------------------
 Entrada                                     Saída
 -------------------------------------------------------------------------------

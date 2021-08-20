@@ -13,7 +13,8 @@ Saída:
 Apresente o valor que  representa o consumo médio do automóvel com 3 casas após
 a vírgula, seguido da mensagem "km/l".
 
-Exemplo
+Exemplos:
+
 -------------------------------------------------------------------------------
 Entrada                                     Saída
 -------------------------------------------------------------------------------

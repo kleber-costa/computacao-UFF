@@ -18,7 +18,8 @@ A saída  deverá  ser uma  mensagem "VOLUME" conforme o exemplo fornecido abaix
 com  um  espaço  antes  e um  espaço  depois  da  igualdade. O valor  deverá ser
 apresentado com 3 casas após o ponto.
 
-Exemplo:
+Exemplos:
+
 -------------------------------------------------------------------------------
 Entrada                                     Saída
 -------------------------------------------------------------------------------

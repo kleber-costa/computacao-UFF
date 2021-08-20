@@ -15,7 +15,8 @@ Imprima o número e o salário do funcionário, conforme exemplo fornecido, com 
 espaço em  branco antes e depois  da igualdade. No caso do salário, também deve
 haver um espaço em branco após o $.
 
-Exemplo:
+Exemplos:
+
 -------------------------------------------------------------------------------
 Entrada                                     Saída
 -------------------------------------------------------------------------------
