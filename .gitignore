@@ -4,8 +4,5 @@
 *.temp
 .idea/
 
-**/ad1-1/
-fundamentos-de-programacao/ad1-2/
-fundamentos-de-programacao/ad2-1/
-fundamentos-de-programacao/ad2-2/
+**/ad?-?
 
