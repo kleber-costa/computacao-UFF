@@ -20,8 +20,8 @@ Entrada                                     Saída
                                             7
                                             21
 
-                                            21
                                             7
+                                            21
                                             -14
 -------------------------------------------------------------------------------
 Entrada                                     Saída
@@ -30,9 +30,9 @@ Entrada                                     Saída
                                             7
                                             21
 
+                                            -14
                                             21
                                             7
-                                            -14
 -------------------------------------------------------------------------------
 '''
 
@@ -47,24 +47,14 @@ def converte(valores):
     return valor
 
 
-def crescente(valores):
-    valores.sort()
+def exibe(valores):
     for ind in range(3):
         print(valores[ind])
 
-    print()
-    return valores
-
-
-def decrescente(valores):
-    count = 2
-    while count >= 0:
-        print(valores[count])
-        count -= 1
-
     return None
 
-
 valor = converte(lista)
-ordenada = crescente(valor)
-decrescente(ordenada)
+valor.sort()
+exibe(valor)
+print()
+exibe(lista)
