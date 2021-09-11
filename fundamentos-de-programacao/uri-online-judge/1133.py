@@ -22,11 +22,14 @@ Entrada                                     Saída
 -------------------------------------------------------------------------------
 '''
 
-valor1 = int(input())
-valor2 = int(input())
+X = int(input())
+Y = int(input())
 
-for i in range(valor1, valor2):
-    if i % 5 == 2:
-        print(i)
-    elif i % 5 == 3:
+if Y < X:
+    temp = X
+    X = Y
+    Y = temp
+
+for i in range(X+1, Y):
+    if i % 5 == 2 or i % 5 == 3:
         print(i)
